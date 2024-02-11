@@ -1,4 +1,4 @@
-baseURL = "http://shellcode.world/"
+baseURL = "/"
 languageCode = "en-us"
 title = "shellcode.world"
 theme = "hello-friend"
