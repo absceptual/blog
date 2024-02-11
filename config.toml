@@ -17,6 +17,8 @@ theme = "hello-friend"
   # Show reading time in minutes for posts
   showReadingTime = true
 
+   math = true
+
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
   # toc = true
@@ -50,3 +52,12 @@ theme = "hello-friend"
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
