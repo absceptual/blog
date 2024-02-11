@@ -8,6 +8,11 @@
         {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}
       </title>
     {{ end }}
+    
+    {{ if .Param "math" }}
+      {{ partialCached "math.html" . }}
+    {{ end }}
+    
     {{ partial "head.html" . }}
   </head>
   <body {{ with $.Site.Params.defaultTheme -}} class="{{ printf "%s-theme" . }}" {{- end }}>
