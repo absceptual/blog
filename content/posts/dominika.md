@@ -1,4 +1,10 @@
-# 2024 UIL Invitational A: Dominika
++++
+title = "2024 UIL Invitational A: Dominika"
+date = "2024-02-11"
+author = "absceptual"
+description = "trigonometry. trigonometry. trigonometry. trigonometry. trigonometry. trigonometry. trigonometry. trigonometry. "
++++
+
 I thought this was a pretty interesting problem that I couldn't solve in the actual time span, so I wanted to solve it afterwards (after many attempts of failed trig bashing...)
 
 ## Problem Statement
