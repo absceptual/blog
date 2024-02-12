@@ -10,7 +10,7 @@ I thought this was a pretty interesting problem that I couldn't solve in the act
 ## Problem Statement
 > An equilateral triangle is a triangle in which all three sides are the same length. An equilateral triangle is also equiangular, meaning that all three interior angles are congruent and each 60 degrees. For example, if the points (7, -6) and (1, 2) are given, two equilateral triangles can be formed. The first triangle (dashed lines) is formed with addition of the point A (-2.93, -7.2), and the second triangle (dotted lines) is formed with the addition of the point B (10.93, 3.2). Note: these values are rounded to two decimal places.
 >
-[!A beautiful recreation of the given example](/resources/graph.png)
+[!A beautiful recreation of the given example](/images/graph.png)
 
 > Dominika has been given two coordinates representing two out of the three points on an equilateral triangle, but the third point is missing. Can you help Dominika write a program that is able to find these two missing points?
 > 
