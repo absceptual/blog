@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "absceptual.me"
+title = ""
 theme = "hello-friend"
 
 [params]
