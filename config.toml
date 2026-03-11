@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "shellcode.world"
+title = "absceptual.me"
 theme = "hello-friend"
 
 [params]
@@ -29,8 +29,8 @@ theme = "hello-friend"
 
 [languages]
   [languages.en]
-    title = "shellcode.world"
-    subtitle = "A world of impractical reverse engineers"
+    title = "absceptual.me"
+    subtitle = "How did we get here?"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +46,7 @@ theme = "hello-friend"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "shellcode.world"
+      logoText = ""
       logoHomeLink = "/"
     # or
     #
