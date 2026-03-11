@@ -17,7 +17,7 @@ theme = "hello-friend"
   # Show reading time in minutes for posts
   showReadingTime = true
 
-   math = true
+  math = true
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
